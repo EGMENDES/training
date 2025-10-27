@@ -1,5 +1,6 @@
 App Title: SuperApp
 Feature: Bob feature
 Feature: Bob feature 2
+Feature: master feature 2
 Version: 1.2
 
