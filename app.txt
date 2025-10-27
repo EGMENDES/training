@@ -1,2 +1,4 @@
 App Title: SuperApp
-Version: 1.1
+Feature: Bob feature
+Version: 1.2
+
